@@ -5,6 +5,14 @@
 	import '@skeletonlabs/skeleton/styles/skeleton.css';
 	// Most of your app wide CSS should be put in this file
 	import '../app.postcss';
+
+	// Your custom Skeleton theme:
+	//import '../theme.postcss';
+	// This contains the bulk of Skeletons required styles:
+	//import '@skeletonlabs/skeleton/styles/skeleton.css';
+	// Finally, your application's global stylesheet (sometimes labeled 'app.css')
+	//import '../app.postcss';
+							
 	import { AppShell, AppBar } from '@skeletonlabs/skeleton';
 	import { LightSwitch } from '@skeletonlabs/skeleton';
 </script>

@@ -11,3 +11,19 @@ AMS-Explorer is a rich web-application for content found in Automobilista 2. Lik
 - Track & Car Categories
 - Game mechanics (Damage, Pitstop, Weather and much more)
 - Randomizer for Track and Car combos
+
+# Database Brainstorming
+Needed data for each track:
+- title
+- short description
+- year opened
+- thumbnail
+- pictures
+- layouts
+    - layout title
+    - layout length
+    - layout picture
+    - layout corners
+    - layout height difference
+- historic description
+- DLC
