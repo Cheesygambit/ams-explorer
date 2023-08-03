@@ -6,6 +6,7 @@
 	// Most of your app wide CSS should be put in this file
 	import '../app.postcss';
 	import { AppShell, AppBar } from '@skeletonlabs/skeleton';
+	import { LightSwitch } from '@skeletonlabs/skeleton';
 </script>
 
 <!-- App Shell -->
@@ -14,33 +15,46 @@
 		<!-- App Bar -->
 		<AppBar>
 			<svelte:fragment slot="lead">
-				<strong class="text-xl uppercase">Skeleton</strong>
+				<strong class="text-xl uppercase">AMS-EXPLORER</strong>
+			</svelte:fragment>
+			<svelte:fragment slot="default">
+				<a
+					class="btn btn-sm variant-ghost-surface"
+					href="/cars">
+					Cars
+				</a>
+				<a
+					class="btn btn-sm variant-ghost-surface"
+					href="/tracks">
+					Tracks
+				</a>
 			</svelte:fragment>
 			<svelte:fragment slot="trail">
 				<a
 					class="btn btn-sm variant-ghost-surface"
-					href="https://discord.gg/EXqV7W8MtY"
+					href="https://www.game-automobilista2.com/"
 					target="_blank"
 					rel="noreferrer"
 				>
-					Discord
+					Automobilista 2 Website
 				</a>
 				<a
 					class="btn btn-sm variant-ghost-surface"
-					href="https://twitter.com/SkeletonUI"
+					href="https://racecraft.online"
 					target="_blank"
 					rel="noreferrer"
 				>
-					Twitter
+					Racecraft.Online
 				</a>
 				<a
 					class="btn btn-sm variant-ghost-surface"
-					href="https://github.com/skeletonlabs/skeleton"
+					href="https://github.com/cheesygambit/ams-explorer"
 					target="_blank"
 					rel="noreferrer"
 				>
-					GitHub
+					AMS-Explorer GitHub
 				</a>
+				<LightSwitch />
 			</svelte:fragment>
 		</AppBar>
 	</svelte:fragment>
