@@ -1,5 +1,3 @@
-<!-- YOU CAN DELETE EVERYTHING IN THIS PAGE -->
-
 <div class="container h-full mx-auto justify-center my-8">
 	<div class="space-y-5  grid grid-rows-2 grid-cols-2 gap-8">
 		<div class="space-y-5 pr-8">
@@ -21,8 +19,8 @@
 				Thats what I want to build here. A big Explorer for all Automobilista related content.
 			</p>
 		</div>
-		<div class="">
-			<img src="ams2cars.png" alt="Website ams2cars.info">
+		<div class="flex justify-center">
+			<img src="ams2cars.png" alt="Website ams2cars.info" width="600" height="auto">
 		</div>
 		<div>
 			3
