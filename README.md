@@ -6,7 +6,7 @@ AMS-Explorer is a rich web-application for content found in Automobilista 2. Lik
 - Database
     - Cars
     - Tracks
-- - Layouts
+    - Layouts
 - Working filtering
 - Track & Car Categories
 - Game mechanics (Damage, Pitstop, Weather and much more)
