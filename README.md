@@ -4,8 +4,8 @@ AMS-Explorer is a rich web-application for content found in Automobilista 2. Lik
 # ToDo
 - Basic Web-App structure
 - Database
-- - Cars
-- - Tracks
+    - Cars
+    - Tracks
 - - Layouts
 - Working filtering
 - Track & Car Categories
