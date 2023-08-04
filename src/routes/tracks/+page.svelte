@@ -27,9 +27,9 @@
             <div class="p-4 text-center">
                 <h4 class="h4">{track.title}</h4>
             </div>
-            <footer class="text-center !hidden">
+            <footer class="text-center p-2 space-y-2">
                 <hr>
-                test
+                <span class="chip variant-filled">{track.layouts.id}</span>
             </footer>
         </a>
         {/each}
