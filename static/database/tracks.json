@@ -79,8 +79,8 @@
         },
         {
             "id": 3,
-            "title": "Schnelle Strecke",
-            "short_description": "Iconic german track, the so called 'green hell'",
+            "title": "Brands Hatch",
+            "short_description": "",
             "year": 1927,
             "dlc": "Base Game",
             "thumbnail": "nürburgring1.jpg",
@@ -109,6 +109,72 @@
                 "https://de.wikipedia.org/wiki/Datei:Er%C3%B6ffnungsrennen_GP-Kurs_N%C3%BCrburgring_1984-05-12.jpg",
                 "https://de.wikipedia.org/wiki/Datei:Michael-Schumacher-S.jpg",
                 "https://de.wikipedia.org/wiki/Datei:N%C3%BCrburgring,_Mercedesarena_105x.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Imola",
+            "short_description": "",
+            "year": 1927,
+            "dlc": "Base Game",
+            "thumbnail": "nürburgring1.jpg",
+            "layouts": [
+                {
+                    "id": 1.1,
+                    "title": "Gesamtstrecke",
+                    "length": 26,
+                    "corners": 87,
+                    "height_difference": 290,
+                    "type": "Asphalt",
+                    "layout_thumbnail": "https://de.wikipedia.org/wiki/Datei:Circuit_N%C3%BCrburgring-2013.svg"
+                }
+            ],
+            "images": [
+                "https://de.wikipedia.org/wiki/Datei:Bundesarchiv_Bild_146-1989-015-35A,_N%C3%BCrburgring,_Bernd_Rosemeyer_in_Rennwagen.jpg"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Laguna Seca",
+            "short_description": "",
+            "year": 1927,
+            "dlc": "USA Part 1 DLC",
+            "thumbnail": "nürburgring1.jpg",
+            "layouts": [
+                {
+                    "id": 1.1,
+                    "title": "Gesamtstrecke",
+                    "length": 26,
+                    "corners": 87,
+                    "height_difference": 290,
+                    "type": "Asphalt",
+                    "layout_thumbnail": "https://de.wikipedia.org/wiki/Datei:Circuit_N%C3%BCrburgring-2013.svg"
+                }
+            ],
+            "images": [
+                "https://de.wikipedia.org/wiki/Datei:Bundesarchiv_Bild_146-1989-015-35A,_N%C3%BCrburgring,_Bernd_Rosemeyer_in_Rennwagen.jpg"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Silverstone",
+            "short_description": "",
+            "year": 1927,
+            "dlc": "Silverstone Pack DLC",
+            "thumbnail": "nürburgring1.jpg",
+            "layouts": [
+                {
+                    "id": 1.1,
+                    "title": "Gesamtstrecke",
+                    "length": 26,
+                    "corners": 87,
+                    "height_difference": 290,
+                    "type": "Asphalt",
+                    "layout_thumbnail": "https://de.wikipedia.org/wiki/Datei:Circuit_N%C3%BCrburgring-2013.svg"
+                }
+            ],
+            "images": [
+                "https://de.wikipedia.org/wiki/Datei:Bundesarchiv_Bild_146-1989-015-35A,_N%C3%BCrburgring,_Bernd_Rosemeyer_in_Rennwagen.jpg"
             ]
         }
     ]

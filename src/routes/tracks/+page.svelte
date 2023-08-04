@@ -3,12 +3,14 @@
     const { tracks } = data
 </script>
 
-<div class="container h-full mx-auto justify-center my-8">
-    <div class="flex pt-5 space-x-5 justify-center">
+<div class="container h-full mx-auto">
+    <div class="grid grid-cols-4 gap-4 pt-4">
         {#each tracks as track}
-        <a style="display:block" class="text-center card variant-soft block card-hover p-6" href="/">
-            <div class="space-y-2">
-                <img src={track.thumbnail} width="300" height="auto" alt="Track thumbnail">
+        <a class="card bg-initial card-hover overflow-hidden" href="/">
+            <header>
+                <img class="w-full" src={track.thumbnail} alt="Track thumbnail">
+            </header>
+            <div class="p-4 space-y-2">
                 <h3 class="h3">{track.title}</h3>
                 <span class="badge variant-filled-primary">{track.dlc}</span>
             </div>
@@ -16,3 +18,4 @@
         {/each}
     </div>
 </div>
+
