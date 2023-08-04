@@ -13,7 +13,8 @@ AMS-Explorer is a rich web-application for content found in Automobilista 2. Lik
 - Randomizer for Track and Car combos
 
 # Database Brainstorming
-Needed data for each track:
+
+## Tracks
 - title
 - short description
 - year opened
@@ -27,3 +28,16 @@ Needed data for each track:
     - layout height difference
 - historic description
 - DLC
+
+## Cars
+- Cars
+    - id
+    - title
+    - Year
+    - Category
+    - Engine
+        - HP
+        - Torque
+    - Transmission
+    - DLC
+    - Thumbnail

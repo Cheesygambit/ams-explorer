@@ -19,12 +19,6 @@
 				Thats what I want to build here. A big Explorer for all Automobilista related content.
 			</p>
 		</div>
-		<div class="flex justify-center">
-			<img src="ams2cars.png" alt="Website ams2cars.info" width="600" height="auto">
-		</div>
-		<div>
-			3
-		</div>
 		<div class="space-y-5">
 			<p>
 				This website will need a lot of work to be the finished project I have in mind.
@@ -68,6 +62,12 @@
 					</span>
 				</div>
 			</dl>
+		</div>
+		<div>
+			3
+		</div>
+		<div class="space-y-5">
+			4
 		</div>
 	</div>
 </div>

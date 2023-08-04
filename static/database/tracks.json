@@ -14,6 +14,7 @@
                     "length": 26,
                     "corners": 87,
                     "height_difference": 290,
+                    "type": "Asphalt",
                     "layout_thumbnail": "https://de.wikipedia.org/wiki/Datei:Circuit_N%C3%BCrburgring-2013.svg"
                 },
                 {
@@ -22,6 +23,7 @@
                     "length": 5.148,
                     "corners": 16,
                     "height_difference": 55,
+                    "type": "Asphalt",
                     "layout_thumbnail": "https://de.wikipedia.org/wiki/Datei:Circuit_N%C3%BCrburgring-2013-GP.svg"
                 }
             ],
@@ -46,6 +48,7 @@
                     "length": 5.793,
                     "corners": 11,
                     "height_difference": "Unknown",
+                    "type": "Asphalt",
                     "layout_thumbnail": "https://de.wikipedia.org/wiki/Datei:Circuit_N%C3%BCrburgring-2013.svg"
                 },
                 {
@@ -54,6 +57,7 @@
                     "length": 2.405,
                     "corners": 5,
                     "height_difference": "Unknown",
+                    "type": "Asphalt",
                     "layout_thumbnail": "https://de.wikipedia.org/wiki/Datei:Circuit_N%C3%BCrburgring-2013-GP.svg"
                 },
                 {
@@ -62,7 +66,42 @@
                     "length": 4.250,
                     "corners": 2,
                     "height_difference": "Unknown",
+                    "type": "Asphalt",
                     "layout_thumbnail": "https://de.wikipedia.org/wiki/Datei:Circuit_N%C3%BCrburgring-2013.svg"
+                }
+            ],
+            "images": [
+                "https://de.wikipedia.org/wiki/Datei:Bundesarchiv_Bild_146-1989-015-35A,_N%C3%BCrburgring,_Bernd_Rosemeyer_in_Rennwagen.jpg",
+                "https://de.wikipedia.org/wiki/Datei:Er%C3%B6ffnungsrennen_GP-Kurs_N%C3%BCrburgring_1984-05-12.jpg",
+                "https://de.wikipedia.org/wiki/Datei:Michael-Schumacher-S.jpg",
+                "https://de.wikipedia.org/wiki/Datei:N%C3%BCrburgring,_Mercedesarena_105x.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Schnelle Strecke",
+            "short_description": "Iconic german track, the so called 'green hell'",
+            "year": 1927,
+            "dlc": "Base Game",
+            "thumbnail": "nürburgring1.jpg",
+            "layouts": [
+                {
+                    "id": 1.1,
+                    "title": "Gesamtstrecke",
+                    "length": 26,
+                    "corners": 87,
+                    "height_difference": 290,
+                    "type": "Asphalt",
+                    "layout_thumbnail": "https://de.wikipedia.org/wiki/Datei:Circuit_N%C3%BCrburgring-2013.svg"
+                },
+                {
+                    "id": 1.2,
+                    "title": "Grand-Prix-Strecke",
+                    "length": 5.148,
+                    "corners": 16,
+                    "height_difference": 55,
+                    "type": "Asphalt",
+                    "layout_thumbnail": "https://de.wikipedia.org/wiki/Datei:Circuit_N%C3%BCrburgring-2013-GP.svg"
                 }
             ],
             "images": [
