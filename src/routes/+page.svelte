@@ -1,73 +1,54 @@
-<div class="container h-full mx-auto justify-center my-8">
-	<div class="space-y-5  grid grid-rows-2 grid-cols-2 gap-8">
-		<div class="space-y-5 pr-8">
-			<h2 class="h2">Welcome to AMS-EXPLORER 👋</h2>
+<div class="container h-full mx-auto w-3/4">
+	<div class="grid grid-cols-1 sm:grid-cols-2 gap-8 p-8">
+		<div class="space-y-4 text-xl">
+			<h1 class="h1">
+				<span class="bg-gradient-to-br from-blue-500 to-cyan-300 bg-clip-text text-transparent box-decoration-clone">Welcome to your encyclopedia*.</span>
+			</h1>
 			<p>
-				AMS-Explorer is a rich web-application for content found in Automobilista 2.
-				Just like ams2cars.info, this web-application aims at giving the user the ability to search and filter for Cars 
-				but aso Tracks, Track Layouts, real history of these and game mechanics.
-			</p>
-			<p>
-				I have to admit: without the work from oez on ams2cars.info, this project wouldnt even exist. 
-				I used his website often to find clear information about a car in a easy to understand layout.
-			</p>
-			<h3>But then - why this 'Explorer'? 🕵️</h3>
-			<p>
-				Very easy to explain. First of all I wanted a new project to learn new webdev skills. That worked so far.
-				Second, I want to give the community something "back" and something I miss on ams2cars.info: 
-				Tracks and other features like calculators, game mechanic tutorials and so on.
-				Thats what I want to build here. A big Explorer for all Automobilista related content.
+				amsEXPLORER is aiming to be your location to find information about game tracks, cars and mechanics.
+				Right now, all you see is a construction site. The idea behind this is to have all the important information 
+				in a good looking way in one place.
 			</p>
 		</div>
-		<div class="space-y-5">
-			<p>
-				This website will need a lot of work to be the finished project I have in mind.
-				And even then .. lets be real .. it will never be done 😀. Here is a small list of the things
-				I would like to add over time.
-			</p>
-			<dl class="list-dl">
-				<div>
-					<span class="badge bg-primary-500">🧭</span>
-					<span class="flex-auto">
-						<dt>Tracks</dt>
-						<dd>A database of all tracks: its history, layouts and much more</dd>
-					</span>
-				</div>
-				<div>
-					<span class="badge bg-primary-500">🚗</span>
-					<span class="flex-auto">
-						<dt>Cars</dt>
-						<dd>Basically ams2cars.info - so this is no priority</dd>
-					</span>
-				</div>
-				<div>
-					<span class="badge bg-primary-500">⁉️</span>
-					<span class="flex-auto">
-						<dt>Game mechanics</dt>
-						<dd>An encyclopedia of all the game mechanics in Automobilista</dd>
-					</span>
-				</div>
-				<div>
-					<span class="badge bg-primary-500">⛽️</span>
-					<span class="flex-auto">
-						<dt>Fuel Calculator</dt>
-						<dd>There are many out there - but this is mine!</dd>
-					</span>
-				</div>
-				<div>
-					<span class="badge bg-primary-500">🎲</span>
-					<span class="flex-auto">
-						<dt>Randomizer</dt>
-						<dd>Need a random car and track combo?</dd>
-					</span>
-				</div>
-			</dl>
+		<div>
+			2
 		</div>
 		<div>
 			3
 		</div>
-		<div class="space-y-5">
-			4
+		<div class="space-y-4 text-xl">
+			<h1 class="h1">
+				<span class="bg-gradient-to-br from-red-500 to-yellow-500 bg-clip-text text-transparent box-decoration-clone">Database.</span>
+			</h1>
+			<p>
+				A Database with every Track & every Car. The idea is here - but the journey is far.
+				The database consists of an handwritten array of datablocks for each object in the game. It will
+				need some time to fill it all in - but when it's done, it has to be beautiful.
+			</p>
+		</div>
+		<div class="space-y-4 text-xl">
+			<h1 class="h1">
+				<span class="bg-gradient-to-br from-pink-500 to-violet-500 bg-clip-text text-transparent box-decoration-clone">Game mechanics.</span>
+			</h1>
+			<p>
+				Not sure how a part of the game works? Here I try to give some background information.
+			</p>
+		</div>
+		<div>
+			6
+		</div>
+		<div>
+			7
+		</div>
+		<div class="space-y-4 text-xl">
+			<h1 class="h1">
+				<span class="bg-gradient-to-br from-blue-500 to-cyan-300 bg-clip-text text-transparent box-decoration-clone">* and my..</span>
+			</h1>
+			<p>
+				.. place to learn. This whole project was started because I - GeeCrumb - wanted to learn something new.
+				I started simple Web-Development more than 10 years ago as a kid. Or lets say, I played with Adobe Dreamweaver
+				at my aunts house. Today I want to give it a deeper dive. Learn. Try. Fail.
+			</p>
 		</div>
 	</div>
 </div>
