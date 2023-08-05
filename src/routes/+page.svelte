@@ -2,7 +2,7 @@
 	<div class="grid grid-cols-1 sm:grid-cols-2 gap-8 p-8">
 		<div class="space-y-4 text-xl">
 			<h1 class="h1">
-				<span class="bg-gradient-to-br from-blue-500 to-cyan-300 bg-clip-text text-transparent box-decoration-clone">Welcome to your encyclopedia*.</span>
+				<span class="bg-gradient-to-br from-blue-500 to-cyan-300 bg-clip-text text-transparent box-decoration-clone">Welcome to your encyclopedia*</span>
 			</h1>
 			<p>
 				amsEXPLORER is aiming to be your location to find information about game tracks, cars and mechanics.
@@ -10,11 +10,13 @@
 				in a good looking way in one place.
 			</p>
 		</div>
-		<div>
-			2
+		<div class="space-y-2 relative inline-block shadow-xl">
+			<img src="ams2_raphael_rodrigues_1.jpg" alt="Track Spa with formula car">
+			<a href="https://forum.reizastudios.com/members/raphael-rodrigues.23501/" class="badge variant-ghost-secondary text-white absolute z-10 bottom-4 left-4">Picture: Raphael Rodrigues</a>
 		</div>
-		<div>
-			3
+		<div class="space-y-2 relative inline-block shadow-xl">
+			<img src="ams2_raven80_1.jpg" alt="">
+			<a href="https://forum.reizastudios.com/members/raven80.20937/" class="badge variant-ghost-secondary text-white absolute z-10 bottom-4 right-4">Picture: Raven80</a>
 		</div>
 		<div class="space-y-4 text-xl">
 			<h1 class="h1">
@@ -34,11 +36,14 @@
 				Not sure how a part of the game works? Here I try to give some background information.
 			</p>
 		</div>
-		<div>
-			6
+		<div class="space-y-2 relative inline-block shadow-xl">
+			<img 
+				src="ams2_scraper_1.jpg" alt="">
+			<a href="https://forum.reizastudios.com/members/scraper.2207/" class="badge variant-ghost-secondary text-white absolute z-10 bottom-4 left-4">Picture: Scraper</a>
 		</div>
-		<div>
-			7
+		<div class="space-y-2 relative inline-block shadow-xl">
+			<img src="ams2_farcar_1.jpg" alt="">
+			<a href="https://forum.reizastudios.com/threads/ams2-screenshots.9824/page-58#post-227431" class="badge variant-ghost-secondary text-white absolute z-10 bottom-4 right-4">Picture: farcar</a>
 		</div>
 		<div class="space-y-4 text-xl">
 			<h1 class="h1">
